@@ -1,7 +1,5 @@
 package com.andre_empresa.cursomc.resources;
 
-import java.util.ArrayList;
-import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -16,6 +14,10 @@ import com.andre_empresa.cursomc.services.CategoriaService;
 @RestController
 @RequestMapping(value="/categorias")
 public class CategoriaResource {
+	
+	// Em C:\Projetos\Projeto1Java ou no github repositório "primeira api rest"
+	// tem uma API Rest simples para consulta
+	// contendo pequenas modificações, talvez melhorias.
 	
 	@Autowired
 	private CategoriaService service;
