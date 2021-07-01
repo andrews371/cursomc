@@ -1,4 +1,4 @@
-package com.andre_empresa.cursomc.domain; alter master
+package com.andre_empresa.cursomc.domain; b3
 
 import java.io.Serializable;
 import java.util.ArrayList;
