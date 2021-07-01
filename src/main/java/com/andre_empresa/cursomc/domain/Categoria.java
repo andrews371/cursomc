@@ -1,5 +1,5 @@
-package com.andre_empresa.cursomc.domain; branch teste1
-nova modificação
+package com.andre_empresa.cursomc.domain;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
