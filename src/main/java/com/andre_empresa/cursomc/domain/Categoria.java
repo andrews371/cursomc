@@ -1,4 +1,5 @@
-package com.andre_empresa.cursomc.domain; b3
+package com.andre_empresa.cursomc.domain;
+package com.andre_empresa.cursomc.domain;
 
 import java.io.Serializable;
 import java.util.ArrayList;
